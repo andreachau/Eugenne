@@ -1,1 +1,1 @@
-# Eugenne is a chatbot that can help you with daily projects and assist you in daily task from telling time to telling jokes
+# Eugenne is a chatbot that can help you with daily projects and assist you in daily task from telling time to telling jokes. You can also add him with eugenne@sparkbot.io or with the html code provided afterwards
